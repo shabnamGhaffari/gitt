@@ -1,0 +1,92 @@
+@media (max-width: 992px){
+    .serviceContainer{
+        flex:0 0 26% !important;
+    }
+    .articleItem{
+        flex:0 0 46% !important;
+    }
+    .articleItemContainer{
+        gap:1rem;
+    }
+
+}
+@media (max-width: 768px){
+    .newsContainer{
+        flex:0 0 100% !important;
+        margin-top: 1rem !important;
+    }
+    .linkContainer{
+        flex:0 0 100% !important;
+    }
+    .linkItem{
+        text-align: right;
+    }
+   .productItem{
+        flex:0 0 47% !important;
+
+    }
+    .respbtn{
+        font-size: 11px !important;
+    }
+}
+@media (max-width: 575px){
+    .searchInput{
+        width:222px !important;
+    }
+    .searchInputParent{
+        font-size: 12px !important;
+    }
+}
+@media (max-width: 500px){
+    .serviceContainer{
+        flex:0 0 36% !important;
+    }
+    .articleItem {
+        flex: 0 0 100% !important;
+    }
+
+}
+@media (max-width: 415px){
+    .searchInput{
+        width:243px !important;
+    }
+    .loginDialog{
+        width:380px !important;
+        margin-left: -190px !important;
+    }
+    .productItem{
+        flex:0 0 100% !important;
+
+    }
+    .information{
+        flex:0 0 100% !important;
+    }
+}
+@media (max-width: 400px){
+    .socialItem{
+        margin: 0 0.1rem !important;
+    }
+    .searchInput{
+        width:222px !important;
+    }
+    .loginDialog{
+        width:350px !important;
+        margin-left: -175px !important;
+    }
+}
+
+
+@media (max-width: 320px){
+    .socialItem{
+        margin: 0 0.1rem !important;
+    }
+    .searchInput{
+        width:204px !important;
+    }
+    .loginDialog{
+        width:300px !important;
+        margin-left: -150px !important;
+    }
+}
+
+
